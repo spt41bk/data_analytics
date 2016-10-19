@@ -1,0 +1,13 @@
+--------statistics--------:
+mean: mx=3.000
+mean: my=2.060
+standard deviation: sx=1.581
+standard deviation: sy=1.072
+correlation xy: 0.627
+
+--------regression line--------:
+slope b: 0.425
+intercept A: 0.785
+function: Y' = 0.425X + 0.785
+
+--------finish!--------:
